@@ -8,9 +8,9 @@
 
 ## 文件说明
 
-- `vectorbt_learn_rewrite.ipynb` - VectorBT学习笔记（Jupyter Notebook）
+
 - `vectorbt_learn_rewrite.html` - VectorBT学习笔记（HTML版本）
-- `vectorbt量化策略开发与回测实战（布林线策略）.pdf` - 布林线策略开发与回测实战教程
+
 
 ## 技术栈
 
